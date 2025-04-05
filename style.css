@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+* {
+    font-family: 'Poppins', 'Arial';
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #E7FFE0;
+}
+
+.cabecalho {
+    display: flex;
+}
+
+/* Estilo para a palavra "LEI DE" */
+.preto {
+    color: #1d1d1d; /* cor preta */
+}
+
+/* Estilo para a palavra "OHM" */
+.azul {
+    color: #0033FF; /* cor azul */
+}
+
+.oq-ohm h1 {
+    color: #0033FF;
+    text-align: center;
+    font-size: 64px;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+}
+
+.oq-ohm p {
+    margin-left: 4rem;
+    margin-right: 8rem;
+}
+
+.oq-ohm ul {
+    margin-left: 83px;
+}
+
+.oq-ohm p {
+    margin-left: 4rem;
+    margin-right: 8rem;
+}
+
+.cabecalho h1 {
+    font-size: 5rem;
+    margin-top: 9rem;
+    margin-left: 10rem;
+    line-height: 5rem;
+}
+.cabecalho img {
+    justify-content: center;
+    margin-left: 13rem;
+}
+
+/* Primeira Fórmula */
+
+.formulas {
+    margin-left: 5rem;
+    margin-top: 5rem;
+    display: flex;
+    
+}
+.formulas h1 {
+    font-weight: 500;
+    font-size: 6rem;
+    margin-bottom: 3rem;
+    color: #0033FF;
+    margin-left: 4rem;
+
+}
+
+.formulas ul {
+    margin-top: 2rem;
+    margin-left: 138px;
+}
+
+/* Segunda Fórmual */
+
+.formulas1 {
+    text-align: right;
+    margin-top: 5rem;
+    display: flex;
+}
+
+.formulas1 ul {
+    margin-top: 2rem;
+    margin-right: 7rem;
+}
+
+.formulas1 h1 {
+    font-weight: 500;
+    font-size: 6rem;
+    margin-bottom: 3rem;
+    color: #0033FF;
+    margin-right: 8rem;
+    margin-left: 5rem;
+}
+
+/* Terceira e ultima fórmula */
+
+.formulas2 {
+    margin-left: 5rem;
+    margin-top: 5rem;
+    display: flex;
+    
+}
+.formulas2 h1 {
+    font-weight: 500;
+    font-size: 6rem;
+    margin-bottom: 3rem;
+    color: #0033FF;
+    margin-left: 4rem;
+
+}
+
+.formulas2 ul {
+    margin-top: 2rem;
+    margin-left: 138px;
+}
+
+.rel-VIR h1{
+    text-align: center;
+    font-size: 68px;
+    margin-bottom: 3rem;
+    color: #0033FF;
+    margin-left: 4rem;
+}
+
+.rel-VIR p {
+    margin-left: 85px;
+    margin-right: 8rem;
+}
+
+.rel-VIR ul {
+    margin-left: 120px;
+    margin-right: 8rem;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.rel-VIR .imagem {
+    margin-top: 5rem;
+    margin-left: 16rem;
+}
+.rel-VIR .imagem2 {
+    margin-top: 5rem;
+    margin-left: 16rem;
+    margin-bottom: 20px;
+}
+
+.rel-VIR .res {
+    margin-top: 5rem;
+}
+
+.rel-VIR .vamos-res h2 {
+    margin-top: 3rem;
+    text-align: center;
+    font-size: 50px;
+    color: #0033FF;
+}
+
+.rel-VIR .vamos-res p {
+    color: #1d1d1d;
+    text-align: center;
+}
+
+.rel-VIR .vamos-res .botton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+button {
+    padding: 12px 24px;
+    font-size: 18px;
+    background-color: #0033FF;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #001f99;
+}
