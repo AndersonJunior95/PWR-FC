@@ -177,6 +177,8 @@ body {
 }
 
 button {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
     padding: 12px 24px;
     font-size: 18px;
     background-color: #0033FF;

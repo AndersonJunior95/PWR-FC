@@ -64,6 +64,18 @@ button:hover {
     text-align: center;
 }
 
-.gab .tab1 {
+.gab h1{
+    color: #0033FF;
+}
 
+.gab .tab1 {
+    justify-content: center;
+    display: flex;
+    list-style: none;
+}
+
+.gab .tab2 {
+    justify-content: center;
+    display: flex;
+    list-style: none;
 }
