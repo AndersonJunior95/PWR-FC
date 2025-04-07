@@ -39,3 +39,31 @@ button {
 button:hover {
     background-color: #001f99;
 }
+
+.exerc {
+    text-align: center;
+    & h1 {
+        color: #0033FF;
+    }
+
+    & p {
+        color: #575757;
+    }
+}
+
+.respos {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 2rem;
+}
+
+.gab {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.gab .tab1 {
+
+}
