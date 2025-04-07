@@ -50,3 +50,14 @@ button:hover {
         color: #575757;
     }
 }
+
+.respos {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 2rem;
+}
+
+.respos button{
+    padding: 1rem;
+}
